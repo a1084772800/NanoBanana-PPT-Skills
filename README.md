@@ -20,13 +20,9 @@
 
 <div align="center">
 
-**📺 演示视频展示**
+https://github.com/user-attachments/assets/b394de21-2848-489a-8d33-a8e262e60f60
 
 *AI 自动生成 PPT 并添加流畅转场动画 - 从文档分析到视频合成一键完成*
-
-**📥 [点击下载观看演示视频](https://github.com/op7418/NanoBanana-PPT-Skills/raw/main/PPT-Skills-Demo.mp4)** (2.5MB)
-
-> 视频内容：完整展示从文档导入、自动分析、生成 PPT 图片、创建转场视频到最终合成的全过程
 
 </div>
 
